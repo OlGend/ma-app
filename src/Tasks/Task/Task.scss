@@ -1,0 +1,36 @@
+.task {
+    padding: 20px;
+    border: 1px solid rgba(187, 187, 244, 0.266);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    background: #fff;
+    h3 {
+        margin: 0;
+        text-align: left;
+    }
+    button {
+        margin-top: 0 !important;
+        margin-right: initial !important;
+        margin-left: auto;
+        border: none;
+        color: #fff;
+        font-weight: 900;
+        cursor: pointer;
+    }
+    .btnForm {
+        margin: 15px auto !important;
+    }
+    .modal-content {
+        p {
+            font-style: italic;
+            font-weight: 900;
+            font-size: 22px;
+            line-height: 124%;
+            color: #15143D;
+            margin-bottom: 15px;
+        }
+    }
+}
